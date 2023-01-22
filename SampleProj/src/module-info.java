@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Nishant
- *
- */
-module SampleProj {
-}
